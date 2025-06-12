@@ -3,4 +3,8 @@ function soma(a, b) {
   return 3;
 }
 
+function soma(a, b) {
+  return a + b; // Agora implementação real
+}
+
 module.exports = { soma };
